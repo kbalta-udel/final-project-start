@@ -59,7 +59,7 @@ export const Example: FC = () => {
     }
     else if (furniture === "Presets") {
       collection = ({
-        preset1: { top: 10, left: 110, picture: "./Furniture/preset1.jpg", title: 'preset1', type: 'fbox' },
+        preset1: { top: 5, left: 50, picture: "./Furniture/preset1.jpg", title: 'preset1', type: 'fbox' },
         preset2: { top: 5, left: 200, picture: "./Furniture/preset2.jpg", title: 'preset2', type: 'fbox' },
         preset3: { top: 5, left: 300, picture: "./Furniture/preset3.jpg", title: 'preset3', type: 'fbox' },
         preset4: { top: 5, left: 400, picture:  "./Furniture/preset4.jpg", title: 'preset4', type: 'fbox'},
